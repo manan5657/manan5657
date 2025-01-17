@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/manan5657/MyAssets/blob/6d1bcfad9421e0cfaf8a009b13bfde78e0c1b9b1/MananBhasinBanner.png)](https://rishavchanda.io)
 <h1 align="center">Hello There 👋, I'm Manan Bhasin</h1>
 <h3 align="center">A passionate Full Stack Developer and AI enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/manan5657/MyAssets/blob/d6df3b399cb801c1d5f58e5f400066b26a749fb2/githubright2.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manan5657&label=Profile%20views&color=0e75b6&style=flat" alt="manan5657" /> </p>
 
 
