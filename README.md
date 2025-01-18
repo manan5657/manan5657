@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/manan5657/MyAssets/blob/6d1bcfad9421e0cfaf8a009b13bfde78e0c1b9b1/MananBhasinBanner.png)](https://rishavchanda.io)
+[![MasterHead](https://github.com/manan5657/AssetsManan/blob/f6477bb57bcee8f86acd920cea9f96a2578fd401/MananBhasinBanner.png)](https://mananbhasin.me)
 <h1 align="center">Hello There 👋, I'm Manan Bhasin</h1>
 <h3 align="center">A passionate Full Stack Developer and AI enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/manan5657/MyAssets/blob/d6df3b399cb801c1d5f58e5f400066b26a749fb2/githubright2.gif"/>
