@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning, Web Development, and Interdisciplinary Research**
 
-- 📄 Know about my experiences [https://www.mananbhasin.me/assets/MananBhasinUpdatedResume.pdf](https://www.mananbhasin.me/assets/MananBhasinUpdatedResume.pdf)
+- 📄 Know about my experiences [My Resume](https://www.mananbhasin.me/assets/MananUpdatedPlacementResume.pdf)
 
 - ⚡ Thanks **I want to say thank you to my Pookie Bhaiya (aka ChatGPT) for answering all my technical questions and helping me along the way.**
 
